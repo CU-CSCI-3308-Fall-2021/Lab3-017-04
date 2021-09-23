@@ -3,8 +3,10 @@ Lab 3 - Elegant Archimenides
 
 Project Team Members:
 
+Jisoo Park
+
 Gareth Rader
 
 Ashyr Helton
 
-Justin Astalos
+Tessa Rankin
