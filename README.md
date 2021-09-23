@@ -6,3 +6,5 @@ Project Team Members:
 Gareth Rader
 
 Ashyr Helton
+
+Justin Astalos
